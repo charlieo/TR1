@@ -627,3 +627,4 @@ guimgr.recent-documents = [loc('file1.py')]
 testing.stored-results = (1,
                           [],
                           {})
+versioncontrol.show-unregistered-in-status = True
